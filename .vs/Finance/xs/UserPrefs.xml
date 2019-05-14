@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{154CC417-21AE-4A00-918F-FD8CD83D3F7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Finance.Android PreferredExecutionTarget="Android.pixi" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Finance/View/MainPage.xaml">
+    <Files>
+      <File FileName="Finance/View/Behaviors/ListViewBehavior.cs" Line="10" Column="1" />
+      <File FileName="Finance/View/MainPage.xaml" />
+      <File FileName="Finance/Model/Posts.cs" Line="15" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finance" expanded="True" selected="True">
+            <Node name="Finance" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="Behaviors" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="Finance.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

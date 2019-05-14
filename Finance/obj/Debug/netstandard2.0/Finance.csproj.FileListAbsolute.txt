@@ -1,0 +1,13 @@
+/Users/mohamendfehmi/Projects/Finance/Finance/bin/Debug/netstandard2.0/Finance.deps.json
+/Users/mohamendfehmi/Projects/Finance/Finance/bin/Debug/netstandard2.0/Finance.dll
+/Users/mohamendfehmi/Projects/Finance/Finance/bin/Debug/netstandard2.0/Finance.pdb
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.csprojAssemblyReference.cache
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/View/MainPage.xaml.g.cs
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/View/PostPage.xaml.g.cs
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.csproj.CoreCompileInputs.cache
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.AssemblyInfoInputs.cache
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.AssemblyInfo.cs
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.dll
+/Users/mohamendfehmi/Projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.pdb
